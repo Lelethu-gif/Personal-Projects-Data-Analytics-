@@ -13,7 +13,10 @@ A collection of data analytics projects during my studies in computer science an
   **model evaluation:
      1. R^2 Score ( Linear regression)
      2. Accuracy & confusion matrix
-     
+     ** FILE TITLE:
+        Linear Regression model
+        Logistic regression model
+        original dataset : Student Perfomance csv
   **Performance metrics:
      -Accuracy : Approximately 86%
 #2. Credit Risk Analysis
@@ -23,6 +26,10 @@ A collection of data analytics projects during my studies in computer science an
   **Data preprocessing and feature engineering
   **Descriptive analysis
   **model evaluation using accuracy,recall and precision & confusion matrix.
+   ** FILE TITLE:
+        FINAL P2 - model ( CODE)
+        P2 FINAL - report ( for real pdf)
+        original dataset : credit risk dataset.csv
   **Performance metrics:
      -Accuracy : Approximately 84%
      - Recall : 73%
