@@ -1,23 +1,45 @@
-# Personal-Projects-Data-Analytics-
-A collection of data analytics projects during my studies in computer science and applied mathetmatics
+#  Data Analytics Projects
+
+Welcome to my collection of data analytics projects completed during my studies in **Computer Science** and **Applied Mathematics**. These projects demonstrate my skills in data analysis, machine learning, statistical modelling, and data visualization using Python.
 
 
-#1. Credit Risk Analysis
--GOAL : To predict loan default using logistic regression with LASSO regularization
--DETAILS:
-  **Dataset comes from kaggle datasets
-  **Data preprocessing and feature engineering
-  **Descriptive analysis
-  **model evaluation using accuracy,recall and precision & confusion matrix.
-   ** FILE TITLE:
-        FINAL P2 - model ( CODE)
-        P2 FINAL - report ( for real pdf)
-        original dataset : credit risk dataset.csv
-  **Performance metrics:
-     -Accuracy : Approximately 84%
-     - Recall : 73%
-     -Precision: 64%
-    **Report: P2 report
+
+## 1. Credit Risk Analysis
+
+### Objective
+
+Predict loan default using **Logistic Regression** with **LASSO regularization**.
+
+### Dataset
+
+* Credit Risk Dataset (Kaggle)
+
+### Project Overview
+
+* Data cleaning and preprocessing
+* Feature engineering
+* Exploratory and descriptive data analysis
+* Logistic Regression model with LASSO regularization
+* Model evaluation using:
+
+  * Accuracy
+  * Precision
+  * Recall
+  * Confusion Matrix
+
+### Results
+
+| Metric    | Score |
+| --------- | ----: |
+| Accuracy  |  ~84% |
+| Recall    |   73% |
+| Precision |   64% |
+
+### Repository Files
+
+Credit Risk.py - model` – Python source code
+Credit Risk Report.pdf` – Project report
+credit risk dataset.csv` – Original dataset
 
  
     
