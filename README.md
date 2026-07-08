@@ -37,7 +37,7 @@ Predict loan default using **Logistic Regression** with **LASSO regularization**
 
 ### Repository Files
 
-Credit Risk.py - model – Python source code |
+Credit_risk_final.py - model – Python source code |
 Credit Risk Report.pdf – Project report     |
 credit risk dataset.csv – Original dataset
 
